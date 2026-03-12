@@ -6,7 +6,7 @@
 |-------|-------|
 | Project Name | AutoMarket — Car Selling Platform |
 | Project Type | GREENFIELD |
-| Status | DRAFT |
+| Status | VALID |
 | Author | AI Agency OS / BA Agent |
 | Date | 2026-03-12 |
 | Stack | Backend |
